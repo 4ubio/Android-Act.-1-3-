@@ -39,7 +39,7 @@ fun Block(text: String, color: Color, background: Color) {
 
 @Preview(showBackground = true)
 @Composable
-fun Act22(){
+fun Act2(){
     Row(
         modifier = Modifier.width(200.dp).background(Color(0xFFBBADA0))
     ) {
